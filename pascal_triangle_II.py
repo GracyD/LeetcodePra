@@ -18,7 +18,6 @@ class Solution:
 		return result[numRows-1]
 
 
-
 if __name__ == '__main__':
 	sol = Solution()
 	triangle = sol.generateTriangle(5)
